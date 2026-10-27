@@ -2,10 +2,11 @@
 #profile-update-interval: 1
 #support-url: https://t.me/FR1nter
 #profile-web-page-url: https://fr1nter.github.io/FRinter-vpn/
-#announce: TGK: @FR1nter | Последнее обновление: 10:17 26.10.2026 (МСК) | Перед подключением проверяйте пинг — ⏱️
+#announce: TGK: @FR1nter | Последнее обновление: 13:27 27.10.2026 (МСК) | Перед подключением проверяйте пинг — ⏱️
 #subscription-userinfo:
 #hide-servers: true
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=qq.utiltools.site&fp=random&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sid=00000000&type=tcp&headerType=none#🇪🇺 ⚡ Автовыбор
+ss://aes-256-gcm:ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=@202.50.253.36:19999#🇮🇹 Италия
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@31.76.110.65:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=nl-1.viralforge.ru&fp=firefox&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&type=tcp&headerType=none#🇹🇷 Турция
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@81.94.148.232:2053?encryption=none&security=tls&sni=windytrout.net&alpn=h2%2C%20http%2F1.1&fp=firefox&type=xhttp&mode=auto&host=windytrout.net&path=%2Fapi%2Fv1%2Fupload#🇷🇺 LTE • 4G/5G
 vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.179:2053?encryption=none&security=tls&sni=randomquaint.net&alpn=h2%2C%20http%2F1.1&fp=firefox&type=xhttp&mode=auto&host=randomquaint.net&path=%2Fapi%2Fv1%2Fupload#🇷🇺 LTE • 4G/5G
