@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://t.me/FR1nter
 #profile-web-page-url: https://fr1nter.github.io/FRinter-vpn/
-#announce: Не работают сервера? Нажмите 🔄                                                                                                                             📶 Обход глушилок — безлимит ⚡                                                                                                            Перед подключением проверяйте пинг — ⏱️
+#announce: Не работают сервера? Нажмите 🔄                                                                                                                               🎁 Обход глушилок — безлимит 📶 ⚡ 
 #subscription-userinfo:
 #hide-servers: true
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@tickets.betust.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=tickets.betust.net&fp=firefox&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&sid=f70764f8&spx=%2F&type=tcp&headerType=none#🇫🇮 🛜 Финляндия • FI
