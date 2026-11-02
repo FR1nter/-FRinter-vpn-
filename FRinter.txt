@@ -3,9 +3,9 @@
 #support-url: https://t.me/FR1nter
 #profile-web-page-url: https://fr1nter.github.io/FRinter-vpn/
 #announce: 
-Telegram: @FR1nter 
+TG: @FR1nter 
 
-Последнее обновление: 12:54 02.11.2026 (МСК) 
+Последнее обновление: 13:00 02.11.2026 (МСК) 
  
 Перед подключением проверяйте пинг — ⏱️
 #subscription-userinfo:
