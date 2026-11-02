@@ -1,4 +1,4 @@
-#profile-title: 🅸 𝐅𝐑𝐢𝐧𝐭𝐞𝐫 • 𝐅𝐑𝐄𝐄 ⚡️
+#profile-title: 🅸 FRinter • FREE ⚡️
 #profile-update-interval: 1
 #support-url: https://t.me/FR1nter
 #profile-web-page-url: https://fr1nter.github.io/FRinter-vpn/
