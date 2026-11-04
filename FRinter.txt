@@ -6,7 +6,7 @@
 #subscription-userinfo:
 #hide-servers: true
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@195.189.98.197:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api37.betust.net&fp=firefox&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&sid=b7a5c406&type=tcp&headerType=none#🇳🇱 🛜 Нидерланды • NL
-vless://dc413f44-7dce-4cc4-b2c7-878ef70ce464@217.60.33.67:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=go-obsh-auto-drun.keno.su&fp=chrome&pbk=-r5xcA3iTzAf63kkb0VIILrLHH1VUq550pFZ-M74Jlc&sid=de&type=tcp&headerType=none#🇵🇱 🛜 Польша • PL 
+ss://aes-128-gcm:shadowsocks@156.146.38.169:443#🇺🇸 🛜 США • US
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@tickets.betust.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=tickets.betust.net&fp=firefox&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&sid=f70764f8&spx=%2F&type=tcp&headerType=none#🇫🇮 🛜 Финляндия • FI
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@admin.betust.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=admin.betust.net&fp=firefox&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&sid=3e137406&spx=%2F&type=tcp&headerType=none#🇵🇱 🛜 Польша • PL
 vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@tickets.betust.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=tickets.betust.net&fp=firefox&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&sid=f70764f8&spx=%2F&type=tcp&headerType=none#🇩🇪 🛜 Германия (YouTube/TikTok) • DE
