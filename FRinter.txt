@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://t.me/FR1nter
 #profile-web-page-url: https://fr1nter.github.io/FRinter-vpn/
-#announce: Не работают сервера? Нажмите 🔄                                                                                                                               🎁 Обход глушилок — безлимит 📶 ⚡ 
+#announce: Не работают сервера? 🔄 Обновите                                                                                                                              🎁 Обход глушилок — безлимит 📶 ⚡ 
 #subscription-userinfo:
 #hide-servers: true
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@195.189.98.197:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api37.betust.net&fp=firefox&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&sid=b7a5c406&type=tcp&headerType=none#🇳🇱 🛜 Нидерланды • NL
