@@ -5,7 +5,7 @@
 #announce: Не работают сервера? 🔄 Обновите                                                                                                                              🎁 Обход глушилок — безлимит 📶 ⚡ 
 #subscription-userinfo:
 #hide-servers: true
-vless://5d978525-bfa5-4b1e-b807-c4e2ac2db56d@178.173.255.244:8443?encryption=none&security=reality&sni=skskks.top&fp=chrome&pbk=hBYxL0uaNGqI8NKoNXDlPm7LlaOsj4OIl013uOYh_HY&sid=b02b745e&type=grpc&mode=gun&authority=&serviceName=#🇪🇺 ⚡ 🛜 Европа • EU ⭐
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@hollandlanzerotte.xyz:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=hollandlanzerotte.xyz&fp=qq&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc&type=tcp&headerType=none#🇩🇪 ⚡ 🛜 Германия • DE
 vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@subscribe.goonars.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=subscribe.goonars.com&fp=firefox&pbk=ZZihyRejv8lHTwTnNCGF0IB6U9kS-L34L3v0ch6k_30&sid=4f339f5f&spx=%2F&type=tcp&headerType=none#🇸🇪 🛜 Швеция • SE
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?encryption=none&type=grpc&security=tls&sni=138-124-86-230.sslip.io&alpn=h2&fp=edge&serviceName=138-124-86-230-sslip-io#🇸🇪 🛜 Швеция (YouTube без рекламы) • SE
 vless://4a24c279-1b75-4425-a7e8-4a4816802959@78.17.171.202:443?encryption=none&security=reality&sni=pl.sipilk.app&fp=firefox&pbk=asTqhNLPD2VUS0La9t_2oczQsUJPCrMnwaoQD6xc6zg&sid=3c4e97b07b3979d8&type=tcp&headerType=none#🇳🇱 🛜 Нидерланды (YouTube/TikTok) • ND
