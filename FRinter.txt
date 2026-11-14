@@ -1,6 +1,6 @@
 #profile-title: 🅸 FRinter • FREE ⚡️
 #profile-update-interval: 1
-#support-url: https://t.me/FR1nter
+#support-url: https://t.me/ixmimxi
 #profile-web-page-url: https://fr1nter.github.io/VPN/
 #announce: Не работают сервера? 🔄 Обновите                                                                                                                              🎁 Обход глушилок — безлимит 📶 ⚡ 
 #subscription-userinfo:
