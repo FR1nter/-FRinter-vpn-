@@ -7,5 +7,6 @@
 #hide-servers: true
 vless://c340f614-8ad6-4516-8887-bf746e978d0c@144.31.241.92:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.evovpn.pro&fp=firefox&pbk=ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4&sid=b4c823&spx=%2F&type=tcp&headerType=none#🇩🇪 🛜 Германия • DE
 vless://c340f614-8ad6-4516-8887-bf746e978d0c@179.253.82.16:443?encryption=none&security=reality&sni=www.infofinland.fi&fp=edge&pbk=ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4&sid=b4c823&spx=%2F&type=xhttp&mode=stream-up&host=evovpn.pro&path=%2Fvideo%2Fdownload#🇫🇮 🛜 Финляндия YT/TT • FI
+vless://a31b6d17-1c4a-44e3-9402-ce78f1fb7eb5@46.243.232.61:8888?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fr1.absolute.beer&fp=qq&pbk=s_lbrdOpe7OdUDcJ5dTc9l6UnkbBVzLyfgQGfhEyrjM&sid=bb4f33251aba8cdd&type=tcp&headerType=none#🇷🇺 📶 LTE/5G 
 vless://377e99dd-f99a-480f-b55d-481d4bc9ee84@185.86.145.40:5443?encryption=none&security=tls&sni=k2.r-fi-1.dokomon.com&fp=qq&type=ws&host=r-fi-1.dokomon.com&path=%2Fws%2F&headers=%7B%0A%20%20%22Host%22%3A%20%22r-fi-1.dokomon.com%22%0A%7D#🇫🇮 📶 LTE/5G ⚡
 vless://377e99dd-f99a-480f-b55d-481d4bc9ee84@185.86.145.40:5443?encryption=none&security=tls&sni=k2.r-se-1.dokomon.com&fp=qq&type=ws&host=r-se-1.dokomon.com&path=%2Fws%2F&headers=%7B%0A%20%20%22Host%22%3A%20%22r-se-1.dokomon.com%22%0A%7D#🇸🇪 📶 LTE/5G ⚡
